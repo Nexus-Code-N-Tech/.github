@@ -40,4 +40,4 @@ We would love to hear from you! Whether you have a project in mind, need support
 
 ## License 📄
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
